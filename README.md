@@ -69,6 +69,16 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+#### Cloud Hosting & Deployments  
+
+<p align="left">  
+    
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Render-46C2AD?style=for-the-badge&logo=render&logoColor=white" />  
+</p>  
+
 #### AI / ML
 
 <p align="left">
