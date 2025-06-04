@@ -106,7 +106,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vxrachit&show_icons=true&theme=tokyonight" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vxrachit&theme=tokyonight" alt="Streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vxrachit&theme=tokyo-night&bg_color=0d1117" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vxrachit&theme=tokyo-night&bg_color=0d1117" alt="Activity Graph">
 </p>
 
 <p align="center">
