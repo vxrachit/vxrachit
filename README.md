@@ -119,7 +119,7 @@
 
 - 📧 Email: **rachitv00@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vxrachit/)  
-- 🌐 [Portfolio](https://vxrachit.github.io/) 
+- 🌐 [Portfolio](https://vxrachit.dpdns.org/) 
 
 ---
 
