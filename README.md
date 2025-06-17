@@ -117,7 +117,7 @@
 
 ### 📬 Let's Connect
 
-- 📧 Email: **rachitv00@gmail.com**  
+- 📧 Email: **mail@vxrachit.dpdns.org**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vxrachit/)  
 - 🌐 [Portfolio](https://vxrachit.dpdns.org/) 
 
